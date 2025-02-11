@@ -6,3 +6,11 @@
 <span> | </span>
 <a href="mailto:s2@doworks.ru" target="_blank">📧Email📧</a>
 <h2></h2>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=s2-name&theme=radical">
+  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s2-name&theme=default">  
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=s2-name&show_icons=true&theme=radical">
+  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=s2-name&show_icons=true&theme=default">
+</picture>
